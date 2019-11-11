@@ -3,7 +3,7 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2019-11-08T08:33:25Z",
+  "updated": "2019-11-11T08:19:49Z",
   "id": "st-news",
   "duration": 0,
   "title": "Digital Literacy - Straits Times Subscription",
@@ -35,6 +35,6 @@
     "web"
   ],
   "feedback": "https://github.com/googlecodelabs/your-first-pwapp/issues",
-  "ga": "UA-52746336-1",
+  "ga": "UA-151922485-1",
   "url": "st-news"
 }
